@@ -1,0 +1,6 @@
+[submodule "dockerized-netcore-webapi-library-app-server"]
+	path = dockerized-netcore-webapi-library-app-server
+	url = https://github.com/mburakeker/dockerized-netcore-webapi-library-app-server
+[submodule "dockerized-react-materialui-library-app-client"]
+	path = dockerized-react-materialui-library-app-client
+	url = https://github.com/mburakeker/dockerized-react-materialui-library-app-client
